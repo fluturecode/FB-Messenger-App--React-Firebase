@@ -1,9 +1,5 @@
 ### REAL TIME Facebook Messenger App
 
-## Firebase
-
-Please creat a project in Firebase to link to your app.
-
 ## Available Scripts
 
 In the project directory, you can run:
