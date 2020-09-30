@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This application also usese Firebase as it's database and for application Build.
+### REAL TIME Facebook Messenger App
 
 ## Firebase
 
